@@ -1,0 +1,519 @@
+data_id,fact,generated_rule,golden_rule,yesNoRatio
+0,"Occasionally, Alaskan huskies are referred to as Indian Dogs, because the best ones supposedly come from Native American villages in the Alaskan and Canadian interiors. They typically weigh between 18 and 34 kg (40 and 75 lb) and may have dense or sleek fur.
+The Alaskan Gold Rush brought renewed interest in the use of sled dogs as transportation. Most gold camps were accessible only by dogsled in the winter. Everything that moved during the frozen season moved by dog team.
+Alaskan marmots possess a short neck, broad and short head, small ears, short powerful legs and feet, bushy and densely furred tail, and a thick body covered in coarse hair.
+As an adaption to the Arctic environment and permanently frozen ground, Alaska marmots breed prior to emerging from the winter den.
+Polar bears are superbly insulated by up to 10 cm (4 in) of adipose tissue, their hide and their fur. Polar bear fur consists of a layer of dense underfur and an outer layer of guard hairs, which appear white to tan but are actually transparent.
+ Although it is the sister species of the brown bear, it has evolved to occupy a narrower ecological niche, with many body characteristics adapted for cold temperatures, for moving across snow, ice and open water, and for hunting seals, which make up most of its diet.","if a fur is short, then it might help its owner to better deal with the environment.",yes,100.0
+1,"The wolverine is the largest land-dwelling species of the family Mustelidae.
+Like many other mustelids, it has potent anal scent glands used for marking territory and sexual signaling. The pungent odor has given rise to the nicknames ""skunk bear"" and ""nasty cat.""
+
+Several potential predators—jaguars and smaller cats like the margay—would love to make a meal out of a tamandua if it weren't so stinky! The bad smell lets other wildlife know where the tamandua is and usually sends them in the opposite direction.
+
+The Striped Polecat is legendary for its ability to emit a foul smelling substance from its anal glands for protection. So powerful is this smell that personal observations include seeing an individual standing its ground against three lions which eventually moved away after much lip curling.","if a predator can't detect the prey, then it can't eat it.",yes,99.99994039535522
+2,"Some researchers and members of the public use the term brumate to describe winter dormancy of reptiles, but the more general term hibernation is believed adequate to refer to any winter dormancy.
+
+In most areas, groundhogs hibernate from October to March or April, but in more temperate areas, they may hibernate as little as three months. Groundhogs hibernate longer in northern latitudes than southern latitudes.
+
+Bears of northern regions, including the American black bear and the grizzly bear, hibernate in the winter.","if something is cold in winter and hot in summer, then it will.",yes,99.99988675117493
+3,"Pet dogs can increase our dopamine, serotonin, and oxytocin levels. These are the “feel good” chemicals our brains release that improve mood and affect happiness. 
+
+Studies have shown that even small interactions with dogs cause the human brain to produce oxytocin, a hormone often referred to as the “cuddle chemical.” Oxytocin increases feelings of relaxation, trust, and empathy while reducing stress and anxiety.
+
+Just like people, cats can show their love through understanding and concern for others. In some instances, they have been known to risk their lives for their owners, protecting them from dangers like poisonous snakes or other hazards. Cats can also detect when their owner is upset and will often console them or, in some cases, even lick away their tears! But perhaps some of the most incredible evidence that cats do get attached to their owners is in the cases where cats have traveled miles upon miles to places they’ve never been in order to find their person.","if a dog is cute and friendly, then it probably gets attached to its owner.",no,78.56332063674927
+4,"Getting a pet will help kids learn vital life skills and lessons like empathy, responsibility, routine and structure. The relationships your children develop with their pets are truly special and extraordinary.
+
+A pet can give you excellent support and unmatched companionship through their natural sense of empathy with no judgment in return.
+
+Pet owners will attest that simply being together with their pet greatly reduces stress, depression and anxiety. Studies have proven an increase in the stress-reducing hormones dopamine and oxytocin and a decrease in the levels of the stress-causing hormone call cortisol for pet owners.","if a child is in good health and is a part of a household where his or her parents or guardians care about him or her, then the child will grow up to be a happy child.",yes,99.97867345809937
+5,"The mollusc shell is typically a calcareous exoskeleton which encloses, supports and protects the soft parts of an animal.
+
+Crabs are generally covered with a thick exoskeleton.
+
+Lobsters are invertebrates with a hard protective exoskeleton.",there exist animals which are covered with a thick exoskeleton.,yes,99.99999403953552
+6,"Even more chimerical than the chameleon, they can change extremely quickly, and they can alter not only the color of their skin, but also its texture and reflectance.
+
+In the blink of an eye, squid can change from sandy brown to vibrant red or ripple with bright metallic rainbows.
+
+Chameleons can stretch their iridophores to change the wavelength—and therefore the color—of the light they reflect.",there exist two living creatures that can change their color at will.,yes,99.99975562095642
+7,"A sunfish (or mola) is any fish in the Mola genus (family Molidae). Their population is considered stable, though they frequently are snagged in drift gill nets and can suffocate on sea trash, like plastic bags (which resemble jellyfish).
+
+The sunfish is native to tropical and temperate waters around the world. 
+In general, pelagic fishes also possess large pectoral fins that provide additional hydrodynamic lift and a large dorsal fin that acts to minimize body rolling during swimming.
+The marine pelagic environment is the largest aquatic habitat on Earth.
+Sharks are a group of elasmobranch fish characterized by a cartilaginous skeleton, five to seven gill slits on the sides of the head, and pectoral fins that are not fused to the head.
+Sharks are fishes. Like other fishes, sharks are cold-blooded, have fins, live in the water, and breathe with gills.","if an organism has a skeleton, gills and live in the water, then it is a fish.",no,99.9677062034607
+8,"Crocodiles (family Crocodylidae) or true crocodiles are large semiaquatic reptiles that live throughout the tropics in Africa, Asia, the Americas and Australia. 
+Crocodile embryos do not have sex chromosomes, and unlike humans, sex is not determined genetically. Sex is determined by temperature.
+Lizards (suborder Lacertilia) are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica, as well as most oceanic island chains.
+Sex determination in lizards can be temperature-dependent. The temperature of the eggs' micro-environment can determine the sex of the hatched young: low temperature incubation produces more females while higher temperatures produce more males.
+Turtles are an order of reptiles known as Testudines, characterized by a shell developed mainly from their ribs.
+Eggs of turtle vary between rounded, oval, elongated, and between hard- and soft-shelled. Most species have their sex determined by temperature. In some species, higher temperatures produce females and lower ones produce males, while in others, milder temperatures produce males and both hot and cold extremes produce females.","if an animal is cold-blooded, then it probably has a reptilian body.",yes,99.99974966049194
+9,"Butterflies have three pairs of legs.
+The body of the adult butterfly is comprised of 3 segments - head, thorax and abdomen.
+Grasshopper Anatomy Like all insects, the grasshoppers have three main body parts – the head, the thorax and the abdomen. They have six jointed legs, two pairs of wings and two antennae. 
+
+The praying mantis is an insect from the Mantidae group. Has 3 pairs of legs, and carnivores are sometimes cannibals.
+The three body parts of a Praying mantis are the head, Thorax, and Abdomen.","if an animal has a long head and large eyes, then it might be a predator.",yes,100.0
+10,"The copperhead and the rattlesnake share three characteristics that can quickly distinguish them from other non-venomous snakes.
+1. Broad, flattened, arrow shaped heads with narrow necks, while the heads of non venomous snakes are long and slender.
+2. The venomous snakes have elliptical shaped eyes similar to a cat’s eye, while non venomous snakes eyes are round.
+3. Sensory pits located near the nostrils are also unique to venomous snakes.
+Venomous snakes usually have a triangular (wide at the back and attached to a narrow neck) or 'spade-shaped' head.
+In Kentucky, the black part in the center of the eye (pupil) of harmless snakes is round. Venomous snakes have egg-shaped or cat-like (elliptical) pupils.
+Venomous snakes in Kentucky have a very conspicuous sensory area or pit (hence the name 'pit viper') on each side of the head. The pit looks somewhat like a nostril and helps the snake locate warm-bodied prey. It is located about midway and slightly below the eye and nostril. Non-venomous snakes do not have pits.","if the head of a snake is broad and flat with a narrow neck, then it is a venomous snake.",yes,99.99998807907104
+11,"The venomous sting of scorpion is used for offense and defense.
+
+Most species of snake are nonvenomous and those that have venom use it primarily to kill and subdue prey rather than for self-defense.
+
+Spiders are air-breathing arthropods that have eight legs, chelicerae with fangs generally able to inject venom.","there exist spiders, which have eight legs, chelicerae with fangs, and use their venom for defense.",yes,99.99750852584839
+12,"Adult butterflies have large, often brightly coloured wings, and conspicuous, fluttering flight.","there exist adult butterflies, which have large, often brightly coloured wings, and conspicuous, fluttering flight.",yes,99.99997019767761
+13,"Bees feed on and require both nectar and pollen. Most pollen is used by bees as larvae food, but bees also transfer it from plant-to-plant, providing the pollination services needed by plants and nature as a whole.
+
+When birds eat fruits and berries, they move seeds away from the parent plant. Sometimes they do this by carrying a large fruit away to eat it. Sometimes they do this by eating small fruits and berries whole. When they defecate (poop) in another place, the seeds are also covered with fertilizer. When seeds grow near the parent plant, they may compete for water, light, and nutrients. When they are far away, they don’t compete with the parent or each other as much. There may have been diseases or other living things that attacked the parent plant. Birds may have moved the seeds away to a safer place.
+
+Butterflies are great for your garden as they are attracted to bright flowers and need to feed on nectar. When they do this their bodies collect pollen and carry it to other plants. This helps fruits, vegetables and flowers to produce new seeds. The majority of plants need pollinators like bees and butterflies to reproduce.","if a fruit or a vegetable is attracted to flowers, then it is likely to be pollinated.",yes,99.99999403953552
+14,"Flowers produce nectar as a reward for pollination, the process of transferring pollen from flower to flower. Many flowers need pollen to reproduce. However, because plants are immobile they need help with pollen transfer. An animal that transfers pollen from flower to flower is called a pollinator. By rewarding pollinators with nectar, the animals inadvertently help the plant with pollen transfer. This monarch, covered with sticky grains of pollen, is serving as a pollinator.
+
+Plants can propagate themselves by having animals eat their fruit and then defecate the seeds elsewhere, although humans don't really contribute to the process in this way.
+
+Fruit is organic plant matter which contains seeds; their 'intention' (if such a term can be applied to plants) is that they are eaten by animals. The seeds will not be digested but excreted, usually whole, in a nutrient-rich manner which will enable them to grow where they land. Essentially, fruit is the plant's way to transport its seeds.","if an animal can provide pollinators, then the plant will produce more food and grow more quickly.",yes,99.99998211860657
+15,"In late Ordovician, the appearance and development of terrestrial plants and microphytoplankton, which consumed atmospheric carbon dioxide, thus, diminishing the greenhouse effect and promoting the transition of the climatic system to the glacial mode, played a unique role in that period.
+
+The ""greening"" of the continents occurred during the Devonian. The covering of the planet's continents with massive photosynthesizing land plants in the first forests may have reduced CO2 levels in the atmosphere. Since CO2 is a greenhouse gas, reduced levels might have helped produce a chillier climate.","if a planet has more land than water, then it might be colder.",yes,100.0
+16,"The Venus flytrap (Dionaea muscipula) is a carnivorous plant native to subtropical wetlands on the East Coast of the United States in North Carolina and South Carolina. It catches its prey—chiefly insects and arachnids—with a trapping structure formed by the terminal portion of each of the plant's leaves, which is triggered by tiny hairs (called ""trigger hairs"" or ""sensitive hairs"") on their inner surfaces.
+
+Pitcher plants are several different carnivorous plants which have modified leaves known as pitfall traps—a prey-trapping mechanism featuring a deep cavity filled with digestive liquid. The traps of what are considered to be ""true"" pitcher plants are formed by specialized leaves. The plants attract and drown their prey with nectar.
+
+Drosera, which is commonly known as the sundews, is one of the largest genera of carnivorous plants, with at least 194 species.
+The trapping and digestion mechanism of Drosera usually employs two types of glands: stalked glands that secrete sweet mucilage to attract and ensnare insects and enzymes to digest them, and sessile glands that absorb the resulting nutrient soup.","if a plant traps its prey, then it has a lot of stalks or hairs.",yes,99.99999403953552
+17,"Carrots grow best in full sun but tolerate some shade. The optimum temperature is 16 to 21 °C (61 to 70 °F). The ideal soil is deep, loose and well-drained, sandy or loamy, with a pH of 6.3 to 6.8.
+
+Radishes grow best in full sun in light, sandy loams, with a soil pH 6.5 to 7.0, but for late-season crops, a clayey-loam is ideal. Soils that bake dry and form a crust in dry weather are unsuitable and can impair germination.
+
+Cabbage performs best when grown in well-drained soil in a location that receives full sun.","if a crop can tolerate full sun and well-drained soil, it will probably grow well.",yes,100.0
+18,"Podocarpus latifolius (broad-leaved yellowwood or real yellowwood, Afrikaans: Opregte-geelhout, Northern Sotho: Mogôbagôba, Xhosa: Umcheya, Zulu: Umkhoba) is a large evergreen tree up to 35 m high and 3 m trunk diameter.
+It is commonly found in afro-temperate forests and often in mountainous areas. In harsh or exposed areas it tends to become stunted, small and dense.
+
+The name live oak comes from the fact that evergreen oaks remain green and ""live"" throughout winter, when other oaks are dormant and leafless. The name is used mainly in North America, where evergreen oaks are widespread in warmer areas.
+Live Oak gets some kind of precipitation, on average, 93 days per year.
+Nearly all eucalyptus are evergreen, but some tropical species lose their leaves at the end of the dry season. 
+There are more than 700 species of eucalyptus and most are native to Australia; a very small number are found in adjacent areas of New Guinea and Indonesia. One species, Eucalyptus deglupta, ranges as far north as the Philippines.","if a plant is green and its leaves are covered with the thick, green and shiny leaves, then it is likely a plant of the genus.",yes,100.0
+19,"The Venus flytrap (Dionaea muscipula) is a carnivorous plant native to subtropical wetlands on the East Coast of the United States in North Carolina and South Carolina. It catches its prey—chiefly insects and arachnids—with a trapping structure formed by the terminal portion of each of the plant's leaves, which is triggered by tiny hairs (called ""trigger hairs"" or ""sensitive hairs"") on their inner surfaces.
+
+Drosera, which is commonly known as the sundews, is one of the largest genera of carnivorous plants, with at least 194 species. These members of the family Droseraceae lure, capture, and digest insects using stalked mucilaginous glands covering their leaf surfaces. The insects are used to supplement the poor mineral nutrition of the soil in which the plants grow.
+
+Pitcher plants are several different carnivorous plants which have modified leaves known as pitfall traps—a prey-trapping mechanism featuring a deep cavity filled with digestive liquid. The plants attract and drown their prey with nectar.","there exist carnivorous plants, which are capable of catching prey using their stalked glands.",yes,99.99999403953552
+20,"Named in some regions as the ""king of fruits"", the durian is distinctive for its large size, strong odour, and thorn-covered rind. 
+
+The Champedek is very much like a jackfruit, if you are familiar with the more popular fruit. To tell if a fruit is ripe on the tree, you must put your nose to it and you will begin to smell a very strong petrochemical smell.
+
+Morinda citrifolia is a fruit-bearing tree in the coffee family, Rubiaceae. 
+The fresh fruit's strong, vomit-like odor has made it a famine food in most regions, but it remains a staple food among some cultures, and has been used in traditional medicine.",there exist a fruit that smells like a pungent rotten egg.,yes,99.99974370002747
+21,"Opium is a highly addictive narcotic drug acquired in the dried latex form the opium poppy (Papaver somniferum) seed pod. Heroin is derived from the morphine alkaloid found in opium.
+
+Native to the Americas, the tobacco plant bears distinctive large leaves that are a particularly concentrated source of nicotine. Nicotine is the chief active ingredient in the tobacco used in cigarettes, cigars, and snuff and is an addictive drug. 
+
+Medical cannabis (or medical marijuana) refers to the use of cannabis and its constituent cannabinoids, in an effort to treat disease or improve symptoms.
+Short-term use increases both minor and major adverse effects. Common side effects include dizziness, feeling tired, vomiting, and hallucinations. Long-term effects of cannabis are not clear. Concerns including memory and cognition problems, risk of addiction, schizophrenia in young people, and the risk of children taking it by accident.",there exist a plant that has a high concentration of nicotine.,yes,99.99988079071045
+22,"Soybean plants are vulnerable to a wide range of bacterial diseases, fungal diseases, viral diseases and parasites.
+Soybean can grow in a wide range of soils, with optimum growth in moist alluvial soils with a good organic content.
+Cucurbita can be susceptible to the pest Bemisia argentifolii (silverleaf whitefly).
+Cucurbitas are sensitive to frost, and they prefer both bright sunlight and soil with a pH of 6.0 to 7.0.
+As a fast-growing plant, diseases are not generally a problem with radishes, but some insect pests can be a nuisance.
+The ideal soil for carrots is deep, loose and well-drained, sandy or loamy, with a pH of 6.3 to 6.8.","if a plant or crop is in a place that is close to a forest or the sea, then it might have problems with insects or diseases.",yes,100.0
+23,"The pitcher plant is carnivorous, so it does get some of its energy from prey. But because it is still a plant, it also gets energy from photosynthesis. So the pitcher plant produces oxygen as a product of photosynthesis.
+
+Drosera, which is commonly known as the sundews, is one of the largest genera of carnivorous plants, with at least 194 species.
+Drosera is a photosynthetic plant.
+The Venus flytrap (Dionaea muscipula) is a carnivorous plant.
+The leaf blade of Venus flytrap is divided into two regions: a flat, heart-shaped photosynthesis-capable petiole, and a pair of terminal lobes hinged at the midrib, forming the trap which is the true leaf.","if an animal has two front teeth, a long muzzle, and.",no,99.7764527797699
+24,"Mentha longifolia also called the mint. It is a herbaceous perennial plant having an aroma of peppermint. 
+Mints will grow 10–120 cm (4–48 inches) tall and can spread over an indeterminate area.
+The peony or paeony is a flowering plant in the genus Paeonia, the only genus in the family Paeoniaceae.
+Most peony are herbaceous perennial plants 0.25–1 metre (1–3 ft) tall, but some are woody shrubs 0.25–3.5 metres (1–11 ft) tall. 
+Hostas are herbaceous perennial plants, growing from rhizomes or stolons, with broad lanceolate or ovate leaves varying widely in size by species from 1–18 in (3–45 cm) long and 0.75–12 in (2–30 cm) broad.
+Variation among the numerous cultivars is even greater, with clumps ranging from less than four in (10 cm) across and three in (8 cm) high to more than six ft (200 cm) across and four ft (130 cm) high.","if a herbaceous plant has a longer stem, then it might be taller and have a bigger root system.",yes,100.0
+25,"Russula emetica, commonly known as the sickener, emetic russula, or vomiting russula, is a basidiomycete mushroom, and the type species of the genus Russula. It has a red, convex to flat cap up to 8.5 cm (3.3 in) in diameter, with a cuticle that can be peeled off almost to the centre.
+The mushroom's common names refer to the gastrointestinal distress they cause when consumed raw. The flesh is extremely peppery, but this offensive taste, along with its toxicity, can be removed by parboiling or pickling. 
+Found in broad-leaved and mixed woodland in the warmer regions of Europe, rubroboletus satanas is classified as a poisonous mushroom, known to cause gastrointestinal symptoms of diarrhea and violent vomiting. However, reports of poisoning are rare, due to its striking appearance and at times putrid smell, which discourage casual experimentation.
+The squat, brightly coloured fruiting bodies are often massive and imposing, with a pale, dull-coloured velvety cap up to 30 cm (12 in), extraordinarily 40 cm (16 in), very rarely 50 cm (20 in) across, yellow to orange-red pores and a bulbous red-patterned stem.
+Amanita muscaria poisoning has occurred in young children and in people who ingested the mushrooms for a hallucinogenic experience.
+Arguably the most iconic toadstool species, the fly agaric is a large white-gilled, white-spotted, usually red mushroom, and is one of the most recognizable and widely encountered in popular culture.","if an organism is large in size and has toxic property, then it will probably be dangerous to eat.",yes,100.0
+26,"The Bulbophyllum flowers produce various odors resembling sap, urine, blood, dung, carrion, and, in some species, fragrant fruity aromas. 
+
+Carrion flowers, also known as corpse flowers or stinking flowers, are mimetic flowers that emit an odor that smells like rotting flesh. 
+
+The rafflesia flowers look and smell like rotting flesh.","there exist a type of mimetic flower, which emits an odor that smells like rotting flesh.",yes,99.99998211860657
+27,"Orobanche, commonly known as broomrape, is a genus of over 200 species of small parasitic herbaceous plants.
+
+Striga, commonly known as witchweed, is a genus of parasitic plants that occur naturally in parts of Africa, Asia, and Australia. 
+
+Cuscuta, commonly known as dodder, is a genus of over 201 species of yellow, orange, or red (rarely green) parasitic plants.","there exist plant that cause diseases and parasites, and a plant that can grow in the desert.",yes,99.99997615814209
+28,"A tumbleweed is a structural part of the above-ground anatomy of a number of species of plants. It is a diaspore that, once mature and dry, detaches from its root or stem and rolls due to the force of the wind.",there exist a diaspore plant that rolls due to wind.,yes,99.99989867210388
+29,"Bees feed on and require both nectar and pollen. Most pollen is used by bees as larvae food, but bees also transfer it from plant-to-plant, providing the pollination services needed by plants and nature as a whole.
+
+When birds eat fruits and berries, they move seeds away from the parent plant. Sometimes they do this by carrying a large fruit away to eat it. Sometimes they do this by eating small fruits and berries whole. When they defecate (poop) in another place, the seeds are also covered with fertilizer. When seeds grow near the parent plant, they may compete for water, light, and nutrients. When they are far away, they don’t compete with the parent or each other as much. There may have been diseases or other living things that attacked the parent plant. Birds may have moved the seeds away to a safer place.
+
+Butterflies are great for your garden as they are attracted to bright flowers and need to feed on nectar. When they do this their bodies collect pollen and carry it to other plants. This helps fruits, vegetables and flowers to produce new seeds. The majority of plants need pollinators like bees and butterflies to reproduce.","if a plant or animal is eaten by a bird, then the seed is probably carried away from the parent plant or animal and will probably grow near to other plants.",yes,99.97227191925049
+30,"Fruit is organic plant matter which contains seeds; their 'intention' (if such a term can be applied to plants) is that they are eaten by animals. The seeds will not be digested but excreted, usually whole, in a nutrient-rich manner which will enable them to grow where they land. Essentially, fruit is the plant's way to transport its seeds.
+
+Plants can propagate themselves by having animals eat their fruit and then defecate the seeds elsewhere, although humans don't really contribute to the process in this way.
+
+Flowers produce nectar as a reward for pollination, the process of transferring pollen from flower to flower. Many flowers need pollen to reproduce. However, because plants are immobile they need help with pollen transfer. An animal that transfers pollen from flower to flower is called a pollinator. By rewarding pollinators with nectar, the animals inadvertently help the plant with pollen transfer. This monarch, covered with sticky grains of pollen, is serving as a pollinator.","if a plant produces food or medicine for a specific animal or human, then it is called a food plant or medicinal plant.",yes,99.99995231628418
+31,"The carrot is a biennial plant in the umbellifer family, Apiaceae.
+Carrot is a herbaceous root vegetable.
+Garden parsley is a bright green, biennial plant in temperate climates, or an annual herb in subtropical and tropical areas.
+
+Henbit is an annual herb with a sprawling habit and short, erect, squarish, lightly hairy stems.","if a plant has a stem or a leaf, then it might be poisonous.",yes,99.99998807907104
+32,"Technically, all annual plants are herbaceous, because an annual is a non-woody plant.
+Biennials, likewise, lack woody stems, therefore they can also be characterized as herbaceous.
+Herbaceous plants are vascular plants that have no persistent woody stems above ground. This broad category of plants includes many perennials, and nearly all annuals and biennials.
+
+Almost all annuals and biennials are herbaceous plants since their stems do not become woody and persistent.","if an annual has a stem which is either woody or non-woody, then the plant will be herbaceous.",yes,100.0
+33,"All plate tectonics move deceptively slow. In the case of the Eurasian Plate, it moves at a rate of just 7-14 millimeters per year.
+
+In the late Cretaceous, approximately 100 million years ago and subsequent to the splitting off from Gondwana of conjoined Madagascar and India, the Indian Plate split from Madagascar. It began moving north, at about 20 centimetres (7.9 in) per year, and is believed to have begun colliding with Asia as early as 55 million years ago
+
+The Pacific Plate is moving to the northwest at a speed of between 7 and 11 centimeters (cm) or ~3-4 inches a year.","if a process occurs slowly over long periods of time, then it probably moves at a very slow speed.",yes,100.0
+34,"What countries have the cheapest seafood eateries?
+The Philippines is a great place to visit if you are looking for seafood eateries. A platter of shrimp will set you back about 4-5 dollars. That's about 30 pieces of shrimp. Gives you an idea how cheap it is.
+The Philippines is located in Southeast Asia, on the eastern rim of the Asiatic Mediterranean. It is bounded in the west by the South China Sea; in the east by the Pacific Ocean; in the south by the Sulu and Celebes Seas.
+What countries have the cheapest seafood eateries?
+Currently, I'd recommend Indonesia, because the Indonesian rupiah is basically a garbage currency. At current exchange rates, you can order a whole snapper at a restaurant for about RP 12000, which is approximately $1.50 US. A whole grouper is a bit cheaper at about RP 8000, or a dollar.
+
+
+Indonesia is an island nation in Southeast Asia, between South China Sea and the Pacific Ocean (in north) and the Indian Ocean (in south).
+What countries have the cheapest seafood eateries?
+I've been to Panama a number of times in the past few months -- whole fried Corvino tends to run about $4.00 and six large prawns about $6.00. Tons of great street food (breakfast typically costs me around $1.50) and some high-end restaurants that don't cost more than $20.
+Panama is the isthmus connecting Central America and South America, and offers access to both the Pacific Ocean and the Caribbean Sea.","if an animal is scared, then it might bite you.",no,0.005604885154752992
+35,"China's summer harvesting mainly focuses on winter wheat and oilseed rape. Generally spanning from May to late June.
+Lat-long coorditates for cities in China are in range: Latitude from 18.24306 to 52.33333 and longitude from 75.98951 to 134.28917.
+In India, sowing of wheat takes place in October to December and harvesting is during February to May.
+India is situated north of the equator between 8°4' north (the mainland) to 37°6' north latitude and 68°7' east to 97°25' east longitude.
+In Ukraine, the critical time for yield development occurs during July and early August, coincident with late reproduction to grain fill. Harvest begins in early September.
+Lat-long coorditates for cities in Ukraine are in range: Latitude from 44.41886 to 52.18903 and longitude from 22.20555 to 40.13222.","if a season, date, month, or year can be defined by its coordinates, then it might be defined by coordinates.",no,99.99985694885254
+36,"Diamonds are not only formed under the heat and pressure of the Earth’s gravity, but can form in the midst of a collision between Earth and an asteroid.
+
+Diamonds are formed deep within the Earth about 100 miles or so below the surface in the upper mantle. Obviously in that part of the Earth it's very hot. There's a lot of pressure, the weight of the overlying rock bearing down, so that combination of high temperature and high pressure is what's necessary to grow diamond crystals in the Earth.
+
+Geologists believe that the diamonds in all of Earth's commercial diamond deposits were formed in the mantle and delivered to the surface by deep-source volcanic eruptions.","if a rock is created in the mantle and is in the upper mantle, then it might be diamond.",yes,99.99997615814209
+37,"Characterized by warm temperature and high salinity, the North Atlantic Current is sometimes concealed at the surface by shallow and variable wind-drift movements. The current often mixes with northern cold polar water to produce excellent fishing grounds near islands and along the coast of northwestern Europe. 
+
+
+The cool Labrador Current meets the warm Gulf Stream at the Grand Banks southeast of Newfoundland in the lower right hand corner of the map.  The combination of these two currents produces heavy fogs and has also created one of the richest fishing grounds in the world.
+While the Kuroshio Current is historically known to support many fisheries where it meets with the Oyashio current, this region is still recovering from the Fukushima Daiichi Nuclear Power Plant accident.","if a place has rich fishing ground and the current is well known, then it probably is a good place for fishing.",yes,100.0
+38,"The Mariana Trench or Marianas Trench is located in the western Pacific Ocean about 200 kilometres (124 mi) east of the Mariana Islands; it is the deepest oceanic trench on Earth. It is crescent-shaped and measures about 2,550 km (1,580 mi) in length and 69 km (43 mi) in width. The maximum known depth is 10,984 metres.",there exists an object that has a property that has an effect.,yes,99.99842643737793
+39,"The Finger Lakes are a group of eleven long, narrow, roughly north–south lakes in an area called the Finger Lakes region in New York, in the United States.",there exists  that can be described as 'water' and.,no,6.599851697683334
+40,"During the summer of 1999, Turkey was hit by a series of earthquakes. 
+The earthquake caused a tsunami in the Sea of Marmara that was about 1 to 2.5 meters high.
+it is now generally thought that the K–Pg extinction was caused by the impact of a massive comet or asteroid 10 to 15 km (6 to 9 mi) wide.
+The scientific consensus is that the asteroid impact at the K–Pg boundary left megatsunami deposits and sediments around the area of the Caribbean Sea and Gulf of Mexico, from the colossal waves created by the impact.
+The 1992 Flores earthquake occurred on December 12 on the island of Flores in Indonesia. With a magnitude of 7.8 and a maximum Mercalli intensity of VIII (Severe), it was the largest and also the deadliest earthquake in 1992 and in the Lesser Sunda Islands region.
+The tsunami on Flores ran inland as far as 300 meters with wave heights of 25 meters.","if an earthquake or tsunami hit a place, then the impact will probably cause more damage.",yes,99.99999403953552
+41,"The asteroid that slammed into Earth and heralded the doom of the dinosaurs triggered a surge in volcanic eruptions that made the catastrophe even worse, researchers claim.
+
+Really big meteorite or asteroid strikes may cause melting and deep deformations that eventually lead to volcanic eruptions.
+
+A few large regional earthquakes (greater than magnitude 6) are considered to be related to a subsequent eruption or to some type of unrest at a nearby volcano. However, volcanoes can only be triggered into eruption by nearby tectonic earthquakes if they are already poised to erupt.","if there is a big meteorite or asteroid, then it may lead to volcanic eruptions.",yes,99.99998807907104
+42,"The ""doldrums"" is a popular nautical term that refers to the belt around the Earth near the equator where sailing ships sometimes get stuck on windless waters.
+
+Summary:
+1.Both doldrums and horse latitudes are ocean areas characterized by weak or nonexistent airflow for a prolonged period of time. Both areas are also located in the Atlantic and Pacific Oceans. In addition, both places are near the equator.
+2.Doldrums and horse latitudes are situated in different locations near the equator. Doldrums are placed at five degrees north and south of the equator. Meanwhile, horse latitudes are located at 30 degrees north and south latitude.
+
+The horse latitudes are located at about 30 degrees north and south of the equator. It is common in this region of the subtropics for winds to diverge and either flow toward the poles (known as the prevailing westerlies) or toward the equator (known as the trade winds). These diverging winds are the result of an area of high pressure, which is characterized by calm winds, sunny skies, and little or no precipitation.","if an area has weak or no winds, then there is probably a high pressure in the area.",yes,100.0
+43,"Mercury is the smallest planet in the Solar System and the closest to the Sun.
+
+Venus is the second planet from the Sun and is named after the Roman goddess of love and beauty.
+The third smallest planet in the Solar System, Venus is a terrestrial planet and is sometimes called Earth's ""sister planet""
+Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System.","if there is a planet closer to the sun than the earth, then there might be a larger number of continents on that planet.",yes,100.0
+44,"Venus is the second planet from the Sun and is named after the Roman goddess of love and beauty.
+Venus is a terrestrial planet and is sometimes called Earth's ""sister planet"".
+Mercury is the smallest planet in the Solar System and the closest to the Sun.
+Mercury is one of four terrestrial planets in the Solar System, and is a rocky body like Earth.
+Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System.
+Mars is a terrestrial planet with a thin atmosphere.","if a planet is close to the sun, then it probably have thin atmosphere.",yes,100.0
+45,"GW170608 was a gravitational wave event that was recorded on 8 June 2017 at 02:01:16.49 UTC by Advanced LIGO. It originated from the merger of two black holes with masses of 12 times of the sun's mass and 7 times of the sun's mass.
+
+GW190521 (initially S190521g) was a gravitational wave signal resulting from the merger of two black holes.
+
+The first direct observation of gravitational waves was made on 14 September 2015. The waveform matched the predictions of general relativity for a gravitational wave emanating from the inward spiral and merger of a pair of black holes of around 36 and 29 solar masses and the subsequent ""ringdown"" of the single resulting black hole.","if a black hole forms, then the black hole's mass is greater than the mass of the merger.",yes,99.99996423721313
+46,"Saturn is the sixth planet from the Sun and the second-largest in the Solar System, after Jupiter. It is a gas giant with an average radius of about nine and a half times that of Earth.
+
+Jupiter is the fifth planet from the Sun and the largest in the Solar System. It is a gas giant with a mass more than two and a half times that of all the other planets in the Solar System combined, but slightly less than one-thousandth the mass of the Sun.","if a planet is close to the sun and is the sixth planet, then it is a gas giant.",no,100.0
+47,"Black holes are some of the strangest and most fascinating objects in space. They're extremely dense, with such strong gravitational attraction that not even light can escape their grasp. 
+
+Except for black holes and some hypothetical objects (e.g. white holes, quark stars, and strange stars), neutron stars are the smallest and densest currently known class of stellar objects.
+Neutron stars are among the densest objects in the universe. A big difference between a neutron star and a black hole is that a neutron star would be having a hard surface unlike that of a black hole.","if a star is very dense and has hard surface, then the star is probably a neutron star.",yes,100.0
+48,"Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System, being larger than only Mercury. Mars is a terrestrial planet with a thin atmosphere, with surface features such as impact craters, valleys, dunes, and polar ice caps.","there exists a planet with a small size, which has a greater gravity.",yes,100.0
+49,"In astronomy, the color index is a simple numerical expression that determines the color of an object, which in the case of a star gives its temperature. The lower the color index, the more blue (or hotter) the object is. Conversely, the larger the color index, the more red (or cooler) the object is. This is a consequence of the logarithmic magnitude scale, in which brighter objects have smaller (more negative) magnitudes than dimmer ones.
+
+A star’s color indicates it’s temperature, composition and relative distance from earth. Its luminosity indicates its size, the brighter it is, the larger it is.
+
+Which color stars have the highest surface temperature quizlet? Rank the stars based on their surface temperature from highest to lowest. (Notice that temperature is related to color and follows the order of the colors in the rainbow: Blue (or violet) stars are the hottest while red stars are the coolest.).
+","if a star is red or hot, then it might be the star of a sun.",no,99.99999403953552
+50,"Therefore, when the heavens drop major responsibilities and burdens onto such people, it must certainly first have them experience distress before developing strong will, have them worked tirelessly to the bones, have their body and skin endure hunger, have their being subjected to extreme poverty, have them act in line of overthrown confusion, in order to awaken the tenacious nature of the heart and mind, increasing the never before had talents.
+
+People often makes mistakes, before they are willing to correct [themselves]; heart trapped in distress, thoughts blocked away, before something can be done; face looking gaunt, voice sounding exasperated, before one is understood. Should there not be any ministers and wise men making testimonies within the country, should there not be any enemy states and foreign aggression from outside the country, the country often perishes.
+And then learns that those that suffer hardships, lives on, those that enjoys peace and happiness, dies. -- <Mencius · Gao Zi>
+[Emperor] Shun was appointed from among the fields, Fu Yue was selected whilst building walls, Jiao Ge was selected whilst selling fish and salt, Guan Yi Wu was selected from the hands of the prison officials, Sun Shu Ao was selected from the seaside, Bai Li Xi was selected from the marketplace. (All names mentioned are notable figures in the imperial court that had rose from a lowly status).
+","if a person is a famous person, the chances of him being an excellent person are more.",yes,99.99999403953552
+51,"An increasing body of research demonstrates that negative family relationships can cause stress, impact mental health and even cause physical symptoms. 
+
+Children of parents with anxiety disorders are four to six times more likely to develop an anxiety disorder in their lifetime, and children of parents with depression are three to four times more likely to develop depression.
+
+Having a close-knit and supportive family provides emotional support, economic well-being, and increases overall health. However, the opposite is also true. When family life is characterized by stress and conflict, the health of family members tends to be negatively affected.","if a family with close relationships are affected by stress, then there is a possibility of mental health problems and physical illness.",yes,100.0
+52,"Nuclear weapons use fissionable materials to fuel an explosion, whereas conventional weapons do not. In addition to their sheer destructive power, nuclear weapons also threaten human life through the radioactive fallout they disperse.
+The terms conventional weapons or conventional arms generally refer to weapons whose ability to damage comes from kinetic, incendiary, or explosive energy and exclude weapons of mass destruction (e.g. nuclear, biological, radiological and chemical weapons). 
+Northern Edge included an air-to-air mission involving a ""blue"" team of 24 F-15Cs, eight F-22s and two F-15Es against 40 F-16s and F/A-18s that were allowed to regenerate to produce a total ""red"" air force of 103 aircraft.
+The USAF says the blue team was able to achieve an 83:1 kill ratio, losing one F-15. Over the two-week exercise, the F-22 accounted for 30% of the blue force and 49% of kills.
+The F-22 Raptor is a fifth-generation air superiority fighter. 
+Thirty years of improvements have pushed some fighters into a group known as “Generation 4.5.” These include the latest F-15s and F-16s for overseas customers.
+What were the advantages of tanks in world war 1?
+They were somewhat bullet proof so offered protection to those inside and behind them. They carried guns so they could fire on the enemy. They could roll through barbed wire and over trenches.  They broke the stale mate in 1918 making this one of the best discoveries in british military past.","if a weapon can kill 100 people and has no other uses, then it probably has little military value.",yes,99.99992251396179
+53,"Thomas Edison is the definition of perseverance. Considered unteachable at a young age the inventor went on to eventually create the electric light bulb. While most thought he “failed” he simply said he found over 1,000 ways to not build a light bulb.
+
+Sun Bin (died 316 BC) was a Chinese general, military strategist, and writer who lived during the Warring States period of Chinese history. He was accused of treason while serving in the Wei state and was sentenced to face-tattooing (criminal branding) and had his kneecaps removed, permanently crippling him. Sun escaped from Wei later and rose to prominence in the Qi state, by serving as a military strategist and commander. He led Qi to victory against the Wei state at the Battle of Guiling and Battle of Maling. Sun authored the military treatise Sun Bin's Art of War, which was rediscovered in a 1972 archaeological excavation after being lost for almost 2000 years.
+
+During the Spring and Autumn period (770－476BC), the State of Wu launched an attack against the State of Yue. The King of Wu, Fu Chai led his army against the State of Yue and caught its king Gou Jian. Fu took him to the State of Wu. In order to avenge his father's death, Fu let him live in a shabby stone house by his father's tomb and ordered him to raise horses for him. Gou pretended to be loyal to Fu but he never forgot his humiliation. Many years later, he was set free. Gou secretly accumulated a military force after he went back to his own state. In order to make himself tougher he slept on firewood and ate a gall-bladder before having dinner and going to bed every night. At the same time he administered his state carefully, developing agriculture and educating the people. After a few years, his country became strong. Then Gou seized a favorable opportunity to wipe out the State of Wu . Later, people use it to describe one who endures self-imposed hardships to strengthen one's resolve to realize one's ambition.","if a person has a strong perseverance and can keep trying until he succeed, then he probably can find his dream.",yes,100.0
+54,"""The evil that is in the world always comes of ignorance, and good intentions may do as much harm as malevolence, if they lack understanding. "" -- Albert Camus
+
+
+“Truth — more precisely, an accurate understanding of reality — is the essential foundation for producing good outcomes.” ―Ray Dalio
+
+Elon Musk's words on purpose: ""The thing that's worth doing is trying to improve our understanding of the world and gain a better appreciation of the universe and not to worry too much about there being no meaning. And, you know, try and enjoy yourself. Because, actually, life's pretty good. It really is."".
+","if a person is knowledgeable and tries to understand the world, then he probably will be happy.",yes,99.999338388443
+55,"Take copper as a mirror,I can tidy up my clothes; Take people as a mirror,I will know what I do is right or not; Take history as a mirror,I will know how the things rise and fall. --- Emperor Tang Taizong of China.
+
+""In history, a great volume is unrolled for our instruction, drawing the materials of future wisdom from the past errors and infirmities of mankind.""  --- Edmund Burke.
+""History is for human self-knowledge ... the only clue to what man can do is what man has done. The value of history, then, is that it teaches us what man has done and thus what man is."" --- R. G. Collingwood.
+Lessons from the past may not always ward off doom, but they can provide insights into the present and even the future.","if a man has a clear and accurate understanding about the world, then he is likely to be humble.",yes,99.99794960021973
+56,"Why Study History: The Importance
+History is important to study because it is essential for all of us in understanding ourselves and the world around us. There is a history of every field and topic, from medicine, to music, to art. To know and understand history is absolutely necessary, even though the results of historical study are not as visible, and less immediate.
+
+History, first and foremost, teaches us the consequences of our actions. Whether we look back to last week and decide which restaurant we go to based on our experiences, or we look back across thousands of years to determine if starting a land war in Asia is a wise idea, we can learn to make important choices based on what happened in the past. We can pick the restaurant with the fast service and get our lunch quickly, or we can decide that trying to conquer China is just a bad idea. Either way, we've learned from someone's (ours or someone else's) actions.
+History also reminds us of what reality is. Sometimes we set ourselves up in boxes, making decisions based on our small worldviews. History reminds us that truth really is stranger than fiction.","if a person knows and understands the history of a certain topic, then he or she will probably get a better understanding of the topic.",yes,99.9997615814209
+57,"What is an example of someone learning from history?
+The Romans. They became the greatest empire in the world partly through their military might. They managed to develop such an incredible armed force by learning from every setback they ever had. When Hannibal defeated them several times in his efforts to destroy them completely they sat down to learn the lessons their losses taught them and came back stronger every time. They studied Hannibal's methods and tactics and as a result became a much more efficient fighting machine.
+Hitler ignoring the lesson from Napoleans Russian invasion disaster - that the Russian inhospitable bitterly cold winter conditions must be mitigated before ever contemplating invading it. The rest is history.
+
+What are the best real life examples of ""those who failed to learn from history repeating it""?
+Every soldier that has ever cheerfully gone off to war in a smart uniform with pretty girls waving him goodbye.","if a soldier is brave and fights for a good cause, then his actions will be appreciated by the people who follow him.",yes,99.9990463256836
+58,"A steam engine is a heat engine that performs mechanical work using steam as its working fluid. The steam engine uses the force produced by steam pressure to push a piston back and forth inside a cylinder. 
+By the 19th century, stationary steam engines powered the factories of the Industrial Revolution. Steam engines replaced sails for ships on paddle steamers, and steam locomotives operated on the railways.",there exist a steam engine that can run on steam.,yes,99.99852776527405
+59,"The Renaissance is a period in European history marking the transition from the Middle Ages to modernity and covering the 15th and 16th centuries, characterized by an effort to revive and surpass ideas and achievements of classical antiquity. It occurred after the Crisis of the Late Middle Ages and was associated with great social change. In addition to the standard periodization, proponents of a ""long Renaissance"" may put its beginning in the 14th century and its end in the 17th century.","there exist a period of history, which is called renaissance.",yes,99.9998688697815
+60,"Sir Isaac Newton PRS (25 December 1642 – 20 March 1726/27[a]) was an English mathematician, physicist, astronomer, alchemist, theologian, and author (described in his time as a ""natural philosopher"") widely recognised as one of the greatest mathematicians and physicists of all time and among the most influential scientists. 
+In the Principia, Newton formulated the laws of motion and universal gravitation that formed the dominant scientific viewpoint until it was superseded by the theory of relativity.",there exist a man named isaac newton and his work was influential in the development of physics.,yes,99.95660781860352
+61,"Michael Joseph Jackson (August 29, 1958 – June 25, 2009) was an American singer, songwriter, and dancer. Dubbed the ""King of Pop"", he is regarded as one of the most significant cultural figures of the 20th century. 
+
+Confucius was a Chinese philosopher and politician of the Spring and Autumn period who is traditionally considered the paragon of Chinese sages. Confucius's teachings and philosophy underpin East Asian culture and society, remaining influential across China and East Asia to this day.
+
+Socrates (/ˈsɒkrətiːz/; Greek: Σωκράτης; c. 470–399 BC) was a Greek philosopher from Athens who is credited as the founder of Western philosophy and among the first moral philosophers of the ethical tradition of thought.","there exist philosophers of the chinese spring and autumn period, whose teachings and philosophy underpin east asian culture and society, remaining influential across china and east asia to this day.",yes,99.9990701675415
+62,"Why is the world so difficult to understand and so complicated?
+Because there are some people out there deliberately lying to you. Some do it to keep you in the dark. Some do it to get something from you. Some do it just for kicks. Then there's the fact that some ideas are really hard to figure out, so you also can't fully trust what you believe, either. So you have to wade through a sea of deception and falsehoods just to get to the truthful people who know what they're talking about and/or ideas that are true and relevant. Unfortunately, such people and ideas are fairly rare.
+
+Why is everything in the world so difficult and complex?
+I avoid myself giving you an abstract answer. I think you are right , life is difficult and why is that becuase while growing up nobody talks about the life skills you actually be needing when you become an adult. Nobody told us get your legal insurance beacuse everyone you meet threat you to take you to court. Nobody told us how to file your tax-returns, or what you will be needing to buy an apartment. sometime I stress out juggling between my job, my denstist appointment, and buy fresh groceries (healty easting is so important).
+
+One would value one's own old broom because people tend to cherish something even of little value simply because it is one's own and not other's.","if you have a problem with something or somebody, try to solve it yourself.",yes,99.66782331466675
+63,"Many Chu's officials had no meaningful task except taking money and Chu's army, while large, was of low quality.
+The Chu state was completely eradicated by the Qin dynasty.
+Yan was an ancient Chinese state during the Zhou dynasty.
+Surprised and enraged by such a bold act, the king of Qin called on Wang Jian to destroy Yan. Crushing the bulk of the Yan army at the frozen Yi River, Ji fell the following year and the ruler fled to the Liaodong Peninsula. In 222 BC, Liaodong fell as well, and Yan was overrun by Qin. 
+However, the poor performance and military weakness of the Song army was observed by the Jurchens, who immediately broke the alliance, beginning the Jin–Song Wars of 1125 and 1127. The Jurchens captured not only the capital, but the retired Emperor Huizong, his successor Emperor Qinzong, and most of the Imperial court.","if a ruler fails, then he is probably arrogant.",yes,99.9999463558197
+64,"Good diplomatic relations with other countries is the key to prosperity of each nation. Every nation has its strong and weak points. Some nations have a strong infrastructure and finances while others are gifted with natural resources. A good diplomatic relation with nations helps each nation to progress and grow.
+
+The School of Diplomacy, or the School of Vertical and Horizontal Alliances was a political and diplomatic clique during the Warring States period of Chinese history (476-220 BCE). 
+According to the Han Feizi, a contemporary work on Legalist Philosophy, supporters of ""Vertical Alliance"" encourage the weak multitude to attack the one strong side whilst the Horizontal Alliance promote the one strong side attacking the weak multitude. They are all fickle and capricious, change sides frequently and are unable to decide who their master is. Both Su Qin of the Vertical Alliance clique and Zhang Yi of the Horizontal Alliance clique issue many plans and schemes that are politically subjective.'.
+","if a nation is successful, then it has a good diplomatic relation with other nations.",yes,99.99999403953552
+65,"The Industrial Revolution began in Great Britain, and many of the technological and architectural innovations were of British origin. By the mid-18th century, Britain was the world's leading commercial nation, controlling a global trading empire with colonies in North America and the Caribbean.
+
+In 1871, a group of Japanese politicians known as the Iwakura Mission toured Europe and the United States to learn western ways. The result was a deliberate state-led industrialisation policy to enable Japan to quickly catch up.
+Modern industry first appeared in textiles, including cotton and especially silk, which was based in home workshops in rural areas.
+Belgium was the second country in which the Industrial Revolution took place and the first in continental Europe: Wallonia (French-speaking southern Belgium) took the lead.
+It was not propaganda but a reality the Walloon regions were becoming the second industrial power all over the world after Britain.","if a place is the second industrial power, then it is the first place.",yes,99.99979734420776
+66,"The impact Michael Jackson had on the world is immense and undeniable. He set and broke records, challenged racial boundaries and revolutionized the music industry. 
+
+Originally recorded by Marvin Gaye and Tammi Terrell in 1967, this Ashford and Simpson-penned song was covered by Diana Ross three years later, becoming a hit. The original, however, is still the most uplifting version, full of hope and determination, proving that love can conquer anything that stands in its way.
+
+OP ignites you to travel to different places and to get amazed at the rich communities that you were never exposed to.
+The desperation and ambitions that every OP characters have compel you to pursue your ambition without any regrets (Thanks, Ace-san). The adventures that these pirates have in the sea is the epitome of freedom, something that we all aspire for.","if something is interesting, then there's a chance it might be interesting to everyone.",yes,99.99992847442627
+67,"Studies have shown that when people engage in an activity out of intrinsic motivation, the quality of engagement and the results are both better​1​.
+Motivation aids children in their development. It encourages them to do better, at times, it encourages a self-gratifying attitude. 
+
+Learning is an enjoyable experience when individuals possess a desire to do so, and there are ways in which parents and teachers can encourage self-motivation in children. When these methods are routinely implemented, they can have a positive effect on self-motivation and in turn, academic growth.","if a child is motivated, then his/her results are better.",yes,99.99982714653015
+68,"William Jefferson Clinton is an American politician who served as the 42nd president of the United States from 1993 to 2001. 
+Clinton was born and raised in Arkansas and attended Georgetown University. He received a Rhodes Scholarship to study at University College, Oxford, and he later graduated from Yale Law School. 
+Barack Hussein Obama II is an American politician who served as the 44th president of the United States from 2009 to 2017.
+Obama was born in Honolulu, Hawaii. After graduating from Columbia University in 1983, he worked as a community organizer in Chicago. In 1988, he enrolled in Harvard Law School, where he was the first black president of the Harvard Law Review.
+Gerald Rudolph Ford Jr. was an American politician who served as the 38th president of the United States from 1974 to 1977, and was the only president never to have been elected to the office of president or vice president. 
+Born in Omaha, Nebraska, and raised in Grand Rapids, Michigan, Ford attended the University of Michigan, where he was a member of the school's football team, winning two National Championships. Following his senior year, he turned down offers from the Detroit Lions and Green Bay Packers, instead opting to go to Yale Law School.","if a person was born in a place, then he probably have a good understanding over the world.",yes,99.99994039535522
+69,"blitzkrieg, (German: “lightning war”) military tactic calculated to create psychological shock and resultant disorganization in enemy forces through the employment of surprise, speed, and superiority in matériel or firepower. 
+Blitzkrieg ideally leads to a quick victory, limiting the loss of soldiers and artillery.
+A side that perceives itself to be at a marked disadvantage may deliberately seek out attrition warfare to neutralize its opponent's advantages over time. Sun Tzu has stated, that there is no country that has benefitted from prolonged warfare, but Russia in 1812 won the war with attrition warfare against Napoleon. When attritional methods have worn down the enemy sufficiently to make other methods feasible, attritional methods are often complemented or even abandoned by other strategies. But in World War I military commanders on both sides relied on attrition warfare resulting in terrible casualties without a strategic result.[citation needed]
+Among the many problems with attrition warfare are these:
+High death tolls — This is the primary issue. Although all wars involve casualties, attrition warfare increases the number of combatants and civilians who are killed.
+High costs — Attrition warfare requires a lot of resources.
+The potential for an unstable outcome — The outcome of attrition warfare is not always clear. A nation which is battered into submission may rebel in the future, and tensions are exacerbated. The unstable outcome of World War I is in part responsible for the outbreak of World War II.","if an act of war takes place and both sides have to fight each other, then it is attrition warfare.",yes,99.99994039535522
+70,"The Pacific war culminated in massive Allied air raids over Japan, and the atomic bombings of Hiroshima and Nagasaki, accompanied by the Soviet Union's declaration of war and invasion of Manchuria and other territories on 9 August 1945, causing the Japanese to announce an intent to surrender on 15 August 1945. The formal surrender of Japan ceremony took place aboard the battleship USS Missouri in Tokyo Bay on 2 September 1945.
+The most serious long-term strategic failure was Japan's complete inability to understand its own industrial weakness and the overwhelming industrial power of its enemies.  Nuclear weapons also shocked Japan into surrendering at the end of World War II.
+Iraqi forces were quickly overwhelmed as coalition forces swept through the country during the Iraq War. 
+U.S. troops were supported by unprecedented technology deployment. During the Iraq War, hundreds of aircraft- and satellite-mounted motion sensors, heat detectors, and image and communications eavesdroppers hovered above Iraq. The four armed services coordinated their actions as never before.
+The outcome of the Gulf War, In short, a broad military coalition, led by the United States under a U.N. mandate, removed Iraqi forces from Kuwait and restored Kuwaiti sovereignty. 
+Desert Storm, raised by the United States as war to Iraq, was the first time stealth aircraft were used in a major way. It also featured an extensive use of precision-guided munitions.","if a thing has been used as weapon and its effect is so devastating, then it is a weapon.",yes,99.99998211860657
+71,"Healthcare professionals begin to gain patients’ trust by being knowledgeable in their specific field of practice and, as a result, patients have confidence and feel secure in the advice provided.
+
+True friendship means you are able to count on one another. Part of caring for a friend is honoring what they tell you, no matter the significance, with confidentiality and respect.
+
+It is incumbent on me to trust the doctors, scientists, and public health professionals. I must trust their motivations, their research, their findings, their knowledge, skill, and expertise. I must trust the process.","if doctors can keep the patients trust and patients have confidence in doctors, then they can feel secure and have less fear in the advice provided.",no,0.3740205429494381
+72,"The Qin dynasty, or Ch'in dynasty in Wade–Giles romanization (Wade–Giles: Ch'in ch'ao), was the first dynasty of Imperial China, lasting from 221 to 206 BC.","there exist a chinese dynasty, which was the first in imperial china.",yes,99.99843835830688
+73,"The Industrial Revolution was the transition to new manufacturing processes in Great Britain, continental Europe, and the United States, in the period from about 1760 to sometime between 1820 and 1840.","there exist an event that happened between 1760 and 1840 in great britain, continental europe, and the united states.",yes,99.99942183494568
+74,"Van Gogh's paintings did not sell during his lifetime, during which he was generally considered a madman and a failure, although some collectors recognised the value of his work. His fame came only after his death, when he evolved in the public imagination into a misunderstood genius.
+
+Now considered as the most influential existentialist writer of the 20th century, Franz Kafka never received fame when he was alive.
+
+Galileo Galilei died in 1642 but his theories were only accepted in the early 19th century.","there exist's a person, who died in 1642 but whose work was only accepted after his death.",yes,99.99091625213623
+75,"Master Zeng said, “I examine myself three times （=every time） a day.”
+
+An emperor of Song dynasty, Zhao Heng said, ""In the book, there is a house of gold;. On the book, there is a shade of jade. ""
+
+Heine once said: ""Examination of oneself acts like a mirror, which can reflects one's fault and enable one for correction."".
+","if there is a house or a shade, it means that there is something inside.",no,99.99939799308777
+76,"How wonderful it would be if we could help our children and grandchildren to learn thanksgiving at an early age. Thanksgiving opens the doors. It changes a child's personality. A child is resentful, negative-or thankful. Thankful children want to give, they radiate happiness, they draw people.- Sir John Templeton
+
+The unthankful heart... discovers no mercies; but let the thankful heart sweep through the day and, as the magnet finds the iron, so it will find, in every hour, some heavenly blessings!-Henry Ward Beecher
+
+The Matthew effect of accumulated advantage, Matthew principle, or Matthew effect for short, is sometimes summarized by the adage ""the rich get richer and the poor get poorer"". The concept is applicable to matters of fame or status, but may also be applied literally to cumulative advantage of economic capital.","if a child is thankful, then he is positive, happy and optimistic.",yes,99.27393794059753
+77,"Saturn has an intrinsic magnetic field that has a simple, symmetric shape – a magnetic dipole. Most probably, the magnetic field is generated similarly to that of Jupiter – by currents in the liquid metallic-hydrogen layer called a metallic-hydrogen dynamo.
+Saturn has a hot interior, reaching 11,700 °C at its core.
+The main part of Earth's magnetic field is generated in the core, the site of a dynamo process that converts the kinetic energy of thermally and compositionally driven convection into electrical and magnetic field energy.
+
+Jupiter's magnetic field is the strongest of any planet in the Solar System. This field is thought to be generated by eddy currents—swirling movements of conducting materials—within the liquid metallic hydrogen core.
+The temperature of Jupiter's diluted core is estimated to be 20,000 K (19,700 °C; 35,500 °F) with a pressure of around 4,000 GPa.","if a planet has a strong magnetic field, then it probably generates a dynamo and therefore has a high density.",yes,100.0
+78,"Electromagnetic induction is the production of voltage when an electrical conductor cuts through stationary magnetic field lines or a changing magnetic field. 
+
+If a coil of wire is placed in a changing magnetic field, a current will be induced in the wire.
+
+Faraday’s Law tells us that inducing a voltage into a conductor can be done by either passing it through a magnetic field, or by moving the magnetic field past the conductor and that if this conductor is part of a closed circuit, an electric current will flow.","if a coil of wire is part of a closed circuit, an electric current will flow.",no,99.95075464248657
+79,"Julie wanted to wash her building window which is 12 feet off the ground. She has a ladder that is 13 feet long. How far should she place the base of the ladder away from the building?
+The base of the ladder should be 5 feet away from the building.
+We have a right triangle with legs a=5 and b=9. Determine the length of the hypotenuse.
+The length of hypotenuse should be 10.3.
+The hypotenuse of a right-angled triangle is 16 units and one of the sides of the triangle is 8 units. Find the measure of the third side using the Pythagoras theorem formula.
+The measure of the third side of a triangle is 13.856 units.","if a triangle has a hypotenuse of 3 times the length of a side, then the length of the hypotenuse should be less than 3 times the length of one of the sides.",no,99.9998688697815
+80,"The gravitational force between sun and Europa (which is a moon of Jupiter) is approximately 1.0 x 10^20N
+The mass of Europa is 4.8 x 10^22 kg.
+The gravitational force between sun and Io (which is a moon for Jupiter) is approximately 1.87*10^20N
+One of the moon of Jupiter, Io has a mass of 8.9319×10^22 kg
+The gravitational force between sun and Jupiter is approximately 4x10^23N.
+The mass of Jupiter is 1.9 x 10^27 kg.
+","if jupiter is close to the sun, then the force between the sun and jupiter is small.",no,99.99999403953552
+81,"The gravitational force between the earth and a computer is around 30N.
+The mass of a computer is about 3kg.
+The gravitational force between the earth and a people is around 750N.
+The mass of a people is about 75kg.
+The gravitational force between the earth and a lamp is around 10N.
+The mass of a lamp is about 1kg.","if a man is heavier than a computer, then the gravitational force between the man and the computer is around 10n.",no,0.02280896296724677
+82,"Since the gravitational force is directly proportional to the mass of both interacting objects, more massive objects will attract each other with a greater gravitational force. So as the mass of either object increases, the force of gravitational attraction between them also increases.","if there is a difference between two things in the same way, then there will be a similar difference in the effect of those things on the surrounding things.",yes,99.99809265136719
+83,"The gravitational force between two objects is calculated using the formula F=GMm/r^2. G is the gravitational constant of 6.67E11m^2/kg^2. M is the mass of one object, m is the mass of the other (both in kg). And r is the distance between the center of mass of the 2 bodies.","if a formula tells a person the gravity force, then it probably will tell us the formula of the object.",yes,99.99871253967285
+84,"What acceleration will result when a 12 N net force applied to a 3 kg object? A 3-kg object experiences an acceleration of 4 m/s.
+
+If the net force on a truck is 5000 Newtons, and the mass of a truck is 2500 kg, what is the car's acceleration? Answer: the truck's acceleration is 2m/s.
+
+If the net force on a car is 3000 Newtons, and the mass of a car is 1000 kg, what is the car's acceleration? Answer: the car's acceleration is 3m/s.","if the net force on a truck is 5000 newtons, and the mass of a truck is 2500 kg, then it is impossible to find the acceleration of a truck.",no,0.20092688500881195
+85,"In a physical sense, Newton's second law is more of a relationship between the net force on an object and the acceleration resulting from that net force. This acceleration will be proportional to the net force through the mass.
+
+A simple mathematical relationship exists between the mass of an object (m), the net force on the object (f) and its acceleration (a). The acceleration of an object is directly proportional to the net force and indirectly proportional to the object's mass.
+
+The acceleration is directly proportional to the net force; the net force equals mass times acceleration; the acceleration in the same direction as the net force; an acceleration is produced by a net force. The NET FORCE. It is important to remember this distinction.","if a force acts on an object, then it will be accelerated.",yes,99.99933242797852
+86,"According to Newton's second law of motion, the acceleration of an object equals the net force acting on it divided by its mass, or a = F m . 
+
+Newton's second law of motion is F = ma, or force is equal to mass times acceleration.
+
+It states that the rate of change of velocity of an object is directly proportional to the force applied and takes place in the direction of the force. It is summarized by the equation: Force (N) = mass (kg) × acceleration (m/s²).","if you take the time derivative of the equation, you can get f = ma.",yes,99.76911544799805
+87,"Example. What is the acceleration of a 4kg brick thrown with a force of 4 newtons?
+Calculate the acceleration using the formula a = f/m; => a = 4/4 = 1m/s/s
+
+Example. Jonathon has an engine that can provide a force of 5.6 newtons. He wants to place the engine on a cart so it accelerates at 3.5m/s/s. What should the combined mass of the cart and engine be to achieve this acceleration?
+Calculate the mass of the vehicle using the formula m = f/a; => m = 5.6/3.5 = 1.6Kg
+
+Example. What is the acceleration of a 2kg brick thrown with a force of 4 newtons?
+Calculate the acceleration using the formula a = f/m; => a = 4/2 = 2m/s/s.
+",if you calculate the acceleration using the formula a = f/m; => a = 5.,no,21.910354495048523
+88,"According to Newton's second law of motion, acceleration is inversely proportional to the mass when the force is a constant. 
+
+The relationship between mass and acceleration is different. It is an inverse relationship.
+
+The acceleration of an object depends directly upon the net force acting upon the object, and inversely upon the mass of the object.","if there exists an object, which is heavier than the moon, then there exists an object, which is heavier than the moon.",no,99.99990463256836
+89,"According to Newton's second law of motion, the acceleration of an object equals the net force acting on it divided by its mass, or a = F m . 
+
+Newton's second law of motion is F = ma, or force is equal to mass times acceleration.
+
+It states that the rate of change of velocity of an object is directly proportional to the force applied and takes place in the direction of the force. It is summarized by the equation: Force (N) = mass (kg) × acceleration (m/s²).","if an object is in motion, then it probably experiences force.",yes,99.99961256980896
+90,"A 2.0 kg cart on a frictionless track collides with a 1.0 kg cart at
+rest. During the collision the 2.0 kg cart exerts a 10 N force on
+the 1.0 kg cart. What is the force on the 2.0 kg cart during the collision? -10 N: These forces are an action-reaction pair.
+
+A 2.0 kg cart on a frictionless track collides with a 1.0 kg cart at
+rest. During the collision the 2.0 kg cart exerts a 30 N force on
+the 1.0 kg cart. What is the force on the 2.0 kg cart during the collision? -30 N: These forces are an action-reaction pair.
+
+A 2.0 kg cart on a frictionless track collides with a 1.0 kg cart at
+rest. During the collision the 2.0 kg cart exerts a 20 N force on
+the 1.0 kg cart. What is the force on the 2.0 kg cart during the collision? -20 N: These forces are an action-reaction pair.","if a force is applied on a cart, then the cart will move in that direction.",no,13.765472173690796
+91,"These two forces are called action and reaction forces and are the subject of Newton's third law of motion. Formally stated, Newton's third law is: For every action, there is an equal and opposite reaction.
+
+Action forces and reaction forces always come in pairs, equal in strength and opposite in direction.
+
+A person pushes against a wall (action force), and the wall exerts an equal and opposite force against the person (reaction force).","if a person pushes against a wall, and the wall exerts an equal and opposite force against the person, then the person must push against the wall with equal force and push the wall to the opposite direction with equal force.",no,99.91901516914368
+92,"When we hit a ball with a bat, the force(F) of A(the bat) on B(the ball) is equal in magnitude and opposite in direction of the force of B on A: F(A on B) = - F(B on A).
+
+In below figure if the object P exerts a force F1 on the object Q, then according to this law, the object Q will also exert an equal and opposite force F2 on the object P.  Therefore, according to Newton’s third law, F1= – F2
+
+
+If a body A is exerting force on body B, then the force acting on the body B is known as action and the opposite force is called A. 
+if Fa = force exerted by Body A on body B, Fb = force exerted by body B on A, then, Fa = -Fb.","if a body exerts a force on another body, then the body exerting the force is said to be applying an external force on the body being acted upon.",yes,99.99955892562866
+93,"A 2.0 kg cart on a frictionless track collides with a 1.0 kg cart at
+rest. During the collision the 2.0 kg cart exerts a 10 N force on
+the 1.0 kg cart. What is the force on the 2.0 kg cart during the collision? -10 N: These forces are an action-reaction pair.
+
+A 2.0 kg cart on a frictionless track collides with a 1.0 kg cart at
+rest. During the collision the 2.0 kg cart exerts a 30 N force on
+the 1.0 kg cart. What is the force on the 2.0 kg cart during the collision? -30 N: These forces are an action-reaction pair.
+
+A 2.0 kg cart on a frictionless track collides with a 1.0 kg cart at
+rest. During the collision the 2.0 kg cart exerts a 20 N force on
+the 1.0 kg cart. What is the force on the 2.0 kg cart during the collision? -20 N: These forces are an action-reaction pair.","if a collision can make a system's energy decrease by a certain percent, then the system will lose energy during a collision.",no,99.99994039535522
+94,"Action and reaction forces are two types of forces that act in pairs and act in opposite directions. 
+
+A person pushes against a wall (action force), and the wall exerts an equal and opposite force against the person (reaction force).
+
+These two forces are called action and reaction forces and are the subject of Newton's third law of motion. Formally stated, Newton's third law is: For every action, there is an equal and opposite reaction.","if there is a reaction force, then there must be an action force.",yes,99.99971389770508
+95,"In below figure if the object P exerts a force F1 on the object Q, then according to this law, the object Q will also exert an equal and opposite force F2 on the object P.  Therefore, according to Newton’s third law, F1= – F2
+
+
+When we hit a ball with a bat, the force(F) of A(the bat) on B(the ball) is equal in magnitude and opposite in direction of the force of B on A: F(A on B) = - F(B on A).
+
+If a body A is exerting force on body B, then the force acting on the body B is known as action and the opposite force is called A. 
+if Fa = force exerted by Body A on body B, Fb = force exerted by body B on A, then, Fa = -Fb.","if a force is exerted on a body, then the force acting on the body is equal in magnitude and opposite in direction.",yes,99.99926090240479
+96,"When two or more water waves interfere, they form a resultant wave of greater or lower amplitude. This phenomenon is known as the interference of water waves.
+
+Interference of light is the phenomena of multiple light waves interfering with one another under certain circumstances, causing the combined amplitudes of the waves to either increase or decrease.
+
+When two or more sound waves occupy the same space, they affect one another.","if a person can interfere the light waves and two or more sound waves, then he probably.",no,0.00012211876310175285
+97,"Late frost or even unusually cold, but not freezing, temperatures can result in a peach tree dropping fruit.
+
+Sometimes, early fruit drop in apple trees is just Mother Nature’s way of reducing a heavy fruit set. This isn’t necessarily bad at all.
+
+It turns out autumnal leaf drop is a form of self-protection.",there exist a type of plant that does not produce fruit in autumn.,yes,99.99996423721313
+98,"The concept that matter behaves like a wave was proposed by French physicist Louis de Broglie (/dəˈbrɔɪ/) in 1924. It is also referred to as the de Broglie hypothesis. Matter waves are referred to as de Broglie waves.
+
+The de Broglie wavelength is the wavelength, λ, associated with a massive particle (i.e., a particle with mass, as opposed to a massless particle) and is related to its momentum, p, through the Planck constant, h.
+
+Matter waves are a central part of the theory of quantum mechanics, being an example of wave–particle duality. All matter exhibits wave-like behavior. For example, a beam of electrons can be diffracted just like a beam of light or a water wave. In most cases, however, the wavelength is too small to have a practical impact on day-to-day activities.",there exist matter waves in the form of de broglie waves.,yes,99.99955296516418
+99,"Change in entropy is proportional to the reciprocal of temperature. So a lower temperature means less entropy, but higher temperature means less entropy per unit of energy. 
+
+Entropy increases when a substance is broken up into multiple parts. Entropy increases as temperature increases. 
+
+If one molecule splits apart in the reaction, entropy generally increases.","if you see a man who thinks he has no equal in wisdom or courage, remember that there are many more such men than there are real sages.",no,0.004882915527559817

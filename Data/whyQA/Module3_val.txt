@@ -1,0 +1,11 @@
+[SEP]I am confident.[SEP]yes
+[SEP]I am not confident.[SEP]yes
+[SEP]My paper has been accepted.[SEP]yes
+[SEP]Russian hates Ukrainian.[SEP]no
+[SEP]Ukrainian hates Russian.[SEP]no
+[SEP]Some Ukrainians hate Russian.[SEP]yes
+[SEP]Chinese hates Japanese.[SEP]yes
+[SEP]Japanese hates Chinese.[SEP]yes
+[SEP]Some Chinese hate Japanese.[SEP]yes
+[SEP]China's capital is Beijing.[SEP]yes
+[SEP]Computer has keyboard.[SEP]yes

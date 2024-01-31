@@ -27,9 +27,6 @@ python -u main.py --output_dir ~/Checkpoints/CoLM/new_data_llama_12_5gene_capita
 
 # python -u main.py --output_dir ./Checkpoints_new/gptj_analysis_100test_newdata_newprompt_10 --do_test --setting_selection_M1_forM2M3 1 --setting_selection 0 --generator_model_type gpt2-lmhead --dataset_selection 18 --num_gene_times 1 --if_long_or_short_facts 1 --cnt_facts_as_input 3 --if_full_or_missing_facts 0 --if_already_fintuned_for_test 1 --finetuned_checkpoint_dir ~/Checkpoints_new/gpt2_fintune_on_DEERELET_D18/
 
-# nice code to spam clusters
-# python -u main.py --output_dir ~/Checkpoints/Checkpoints_new/gptj7 --do_test --setting_selection_M1_forM2M3 1 --setting_selection 1 --generator_model_type gptj --dataset_selection 12 --num_gene_times 100 --if_long_or_short_facts 1 --cnt_facts_as_input 3 --if_full_or_missing_facts 0
-
 
 # use DEER train to make generations as in test mode, for annotation of DEERLET
 # nohup python -u main.py --output_dir ./Checkpoints_try/gptj_analysis_78train_fortest_newdata_newprompt_numgene10 --do_test --setting_selection_M1_forM2M3 1 --setting_selection 1 --generator_model_type gptj --dataset_selection 12 --num_gene_times 12 --if_long_or_short_facts 1 --cnt_facts_as_input 3 --if_full_or_missing_facts 0 --if_use_deer_train_data_for_test 1
